@@ -1,0 +1,21 @@
+form {
+  overflow: auto;
+  display: flex;
+  align-items: center;
+
+  margin: 0 auto;
+  width: 100%;
+  margin-bottom: 25px;
+}
+form img {
+  padding-left: 4px;
+  padding-bottom: 3px;
+  position: absolute;
+}
+form input {
+  width: 85%;
+  border: none;
+  border-bottom: 1px solid black;
+  padding: 5px 5px 5px 30px;
+  background: rgba(255, 255, 255, 0);
+}

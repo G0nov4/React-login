@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Abel&display=swap');
+
+:root{
+    --font-login:'Abel';
+
+    /*  COLORS  */
+    --principal-color: rgba(0,0,0,1);
+    --blob1-blue:#02AAB0;
+    --blob1-green: #00CDAC ;
+    ;
+
+    /*  BLOB STYLES   */
+    --drop-sombra: rgba(128, 125, 125, 0.89);
+
+}
